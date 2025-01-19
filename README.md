@@ -19,10 +19,9 @@ This is a React application that displays a list of profiles with their photos, 
   
 
 ## Setup Instructions
-
+```bash
 1. Clone the repository:
 
-```bash
     git clone https://github.com/AniketFirke/-Bynry-
 
 2. Install dependencies:
