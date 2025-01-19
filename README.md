@@ -81,7 +81,7 @@ This is a React application that displays a list of profiles with their photos, 
 
   For questions or feedback, please contact:
   
-  Name: Aniket Firke
-  Email: firkeaniket621@gmail.com 
-  GitHub: https://github.com/AniketFirke/-
+  * Name: Aniket Firke
+  * Email: firkeaniket621@gmail.com 
+  * GitHub: https://github.com/AniketFirke/-
 
