@@ -61,6 +61,15 @@ This is a React application that displays a list of profiles with their photos, 
     - Click on a profile card to view its details and location on the map.
     - If you have admin privileges, you can access the admin panel to add, edit, and delete profiles.
 
+* Home Page
+    ![image](https://github.com/user-attachments/assets/54a920b5-ae39-4a7d-886e-6cbbd8982322)
+
+* Admin Page
+    ![image](https://github.com/user-attachments/assets/b3ca32ab-1271-4bf4-9546-9605e21f3676)
+* Profile Details Page
+    ![image](https://github.com/user-attachments/assets/e21b2164-8685-493d-80b2-fbb64c6df4dc)
+
+
 ##Contact
   For questions or feedback, please contact:
   
